@@ -129,11 +129,6 @@ Expense-Automation-System/
 
 <img width="1400" alt="Google Sheets Database" src="./Google sheet .png">
 
----
-
-## N8n Workflow Architecture
-
-  <img width="1400" N8n architechture" src="./N8n architechture.png">
 
 ---
 
