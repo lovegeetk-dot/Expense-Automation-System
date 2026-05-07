@@ -134,7 +134,7 @@ Expense-Automation-System/
 ## N8n Workflow Architecture
 
   
-![Google Sheet](N8n architechture.png)
+![Google Sheet](n8n architechture.png)
 
 
 ---
