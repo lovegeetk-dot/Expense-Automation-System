@@ -133,9 +133,7 @@ Expense-Automation-System/
 
 ## N8n Workflow Architecture
 
-<p align="center">
-  <img src="./N8n architecture.png" alt="n8n Workflow Architecture" width="1000"/>
-</p>
+  <img src="./N8n architecture.png.png" alt="n8n Workflow Architecture" width="1000"/>
 
 ---
 
